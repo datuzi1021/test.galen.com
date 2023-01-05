@@ -1,0 +1,8 @@
+---
+- name: "PHPSESSID"
+  value: "baqphcbm47t2ul36lbq7smsgg6"
+  path: "/"
+  domain: "gtest.weoil.net.cn"
+  expiry: null
+  httpOnly: false
+  secure: false
